@@ -20,3 +20,6 @@ A simple and responsive weather application built with React that allows users t
  CSS/Styled Components
  OpenWeatherMap API (or any other weather API)
  Axios/Fetch API (for making HTTP requests)
+
+## OUTPUT
+![image](https://github.com/user-attachments/assets/8cf98a4e-2b9e-4ac1-92c6-521fd3c0a50c)
